@@ -7,5 +7,5 @@ www.linkedin.com/company/hit-wicket-apps
 
 www.linkedin.com/in/nikbhat
 
-play.google.com/store/apps/developer?id=Hit+Wicket+Apps
+https://play.google.com/store/apps/developer?id=Hit+Wicket+Apps
 
